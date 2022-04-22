@@ -23,7 +23,6 @@ Created app in Java script using express and mysql2 to build the backend for the
 App build in:
 
 JavaScript
-App runtime Frameworks and helpers:
 
 Node.js 
 
@@ -32,6 +31,6 @@ Express.js
 MySQL
 
 Instalation
-Clone or Fork the Repo to your computer.
+Clone starter code.
 Install NODEjs.
 Use NPM to install dependencies: "dotenv": "^16.0.0", "express": "^4.17.3", "mysql2": "^2.3.3", "sequelize": "^6.17.0
