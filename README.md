@@ -1,55 +1,6 @@
-<div id="top"><div>
-<!--
-*** This is the Readme for eCommerce Backend
--->
-![Ss](https://courses.bootcampspot.com/courses/1042/files/1810892/preview)
-<!-- Project Shields -->
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<!-- Project Logo -->
-<br />
-<div align="center">
-
-    <a href="https://young-dawn-24619.herokuapp.com/api/categories">
-        <img src="./public/assets/images/logo.png" alt="logo">
-        <br>Click the logo to launch APP<br>
-    <a/>
-    
-        <br />
-            <br />
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-        <a href="#what-was-done"> What was done</a>
-    </li>
-    <li>
-        <a href="#instalation"> instalation</a>
-    </li>
-    <li>
-        <a href="#usage"> usage</a>
-    </li>
-    <li>
-        <a href="#contact">Contact</a>
-    </li>
-
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Challange
-
-[![Product Name Screen Shot][product-screenshot1]](./public/assets/images/11-express-homework-demo-01.png)
-________________________________________________________________________________________________________________________________________________
-
-### The Task
+## About The Project
 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
