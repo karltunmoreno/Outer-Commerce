@@ -2,7 +2,7 @@
 <!--
 *** This is the Readme for eCommerce Backend
 -->
-
+![Ss](https://courses.bootcampspot.com/courses/1042/files/1810892/preview)
 <!-- Project Shields -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -121,9 +121,11 @@ npm start
 this is only if you want to run this in your own deployment. the live app is currently deployed on heroku.
 
 ### Videos
+    
+ Link
+    https://www.youtube.com/watch?v=BZ4SIYFjW-I&t=458s 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -131,10 +133,7 @@ this is only if you want to run this in your own deployment. the live app is cur
 Karltunmoreno@gmail.com
 ___________________________________________________________________________________________________________________________________________________
 
-Project Link: [)
 
-
-[product-screenshot1]: ./public/assets/images/screenshot_1.png
 
 
 _______________________________________________________________________________________________________________________________________________________________________
